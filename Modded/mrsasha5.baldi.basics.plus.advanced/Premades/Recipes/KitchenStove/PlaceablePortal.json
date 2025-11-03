@@ -1,0 +1,14 @@
+{
+   "rawFood": [
+   {
+      "name": "TeleportationBomb"
+   },
+   {
+      "name": "TeleportationBomb"
+   }],
+   "cookedFood": [
+   {
+      "name": "PlaceablePortal",
+      "uses": 2
+   }]
+}

@@ -1,0 +1,12 @@
+{
+  "items": [
+	{ "key": "Phonty_Vfx_Intro", "value": "<color=#bb00ff>*MECHANIC NOISES*" },
+	{ "key": "Phonty_Vfx_Angry", "value": "<color=#bb00ff>*ANGRY MUSIC BOX*" },
+	{ "key": "Phonty_Vfx_Record", "value": "<color=#bb00ff>*Music*" },
+	
+	{ "key": "Phonty_Sfx_Shot", "value": "<color=#bb00ff>*BWAAAAAHAAAAAAAA!!!*" },
+	
+	{ "key": "Phonty_Pri_1", "value": "Whimsy Winder" },
+	{ "key": "Phonty_Pri_2", "value": "A Sentient Music Box! Make Sure If Its Playing music, Or else Bad things will happen." }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+	"Name":"HudManager:MainHud",
+	"Children": [
+		{
+			"Name":"TMP_Text:Notebook Text",
+			"Children": [],
+			"Replacements":{
+				"fontStyle":"Italic"
+			}
+		}
+	],
+	"Replacements": {}
+}

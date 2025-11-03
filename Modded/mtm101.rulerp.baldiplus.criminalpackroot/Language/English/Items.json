@@ -1,0 +1,20 @@
+{"items":[
+
+{"key":"Itm_Crowbar","value":"Crowbar"},
+{"key":"Desc_Crowbar","value":"Crowbar\nThis piece of contraband is helpful for tearing down those pesky coin doors, one way doors\n and lockdown doors!"},
+
+{"key":"Itm_ThiefMask","value":"Thief Mask"},
+{"key":"Desc_ThiefMask","value":"Thief Mask\nUse this mask to make the Principal recognize you as a different person!\nUntil it wears off that is..."},
+
+{"key":"Itm_IOU","value":"I.O.U"},
+{"key":"Desc_IOU","value":"I.O.U\nUse this throwable page on anything that requires an item,\n such as tape players, yellow doors, soda machines and more!\nBe careful though... Principal doesn't like fraud..."},
+
+{"key":"Itm_DealerPouch","value":"Dealer Pouch"},
+{"key":"Desc_DealerPouch","value":"Dealer Pouch\nWho knows what is inside?\nP.S: Stop reading this and deliver it!"},
+{"key":"Itm_EmptyDealerPouch","value":"Empty Dealer Pouch"},
+{"key":"Desc_EmptyDealerPouch","value":"Empty Dealer Pouch\nSomehow, the contents magically vanished...\nP.S: Nice try."},
+
+{"key":"Itm_KeyCardBad","value":"Key Card"},
+{"key":"Desc_KeyCardBad","value":"Key Card\nThis shouldn't be possible!"}
+
+]}

@@ -1,0 +1,10 @@
+{
+	"TheMess":{
+        "spritesToLookFor":"Student_Test",
+		"PixelsPerUnit":42,
+		"Pivot":[0.5, 0.8],
+        "WhereAudio":"static.wav",
+        "YayAudio":"static.wav",
+        "usesSheet":true
+	}
+}

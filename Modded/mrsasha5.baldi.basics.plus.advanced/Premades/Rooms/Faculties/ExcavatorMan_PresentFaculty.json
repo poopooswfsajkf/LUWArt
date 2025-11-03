@@ -1,0 +1,16 @@
+{
+    "weight": 20,
+    "minItemValue": 30,
+    "maxItemValue": 75,
+    "categoryName": "Faculty",
+    "doorMatsName": "",
+    "isOffLimits": true,
+    "autoAssignRoomFunctionContainer": true,
+    "keepTextures": false,
+    "bannedFloors": [1],
+    "endlessMode": true,
+    "isAHallway": false,
+    "isPotentialPrePlotSpecialHall": false,
+    "isPotentialPostPlotSpecialHall": false,
+    "squaredShape": false
+}

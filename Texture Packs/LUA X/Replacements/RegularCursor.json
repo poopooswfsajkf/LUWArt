@@ -1,0 +1,7 @@
+{
+	"Name":"CursorInitiator:PauseScreen",
+	"Children": [],
+	"Replacements": {
+		"cursorColor":"1 1 1 1"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"TheTestStudent":{
+        "spritesToLookFor":"Test",
+		"PixelsPerUnit":42,
+		"Pivot":[0.5, 0.8],
+        "WhereAudio":"LAt_Activating.wav",
+        "YayAudio":"LAt_Activating.wav",
+        "usesSheet":false
+	}
+}

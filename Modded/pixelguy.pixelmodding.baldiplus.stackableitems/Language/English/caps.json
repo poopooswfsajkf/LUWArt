@@ -1,0 +1,7 @@
+{"items":[
+	{"key":"Tip_StackSize","value":"How many items can be stacked."},
+	{"key":"Opt_StackSizeCheat","value":"Trying to change the stack size mid-run?\nThat's a no-no for you!"},
+	{"key":"Opt_StackSizeDisplay","value":"Stack length:"},
+	{"key":"Er_StackLoad","value":"Error on recovering the stack data from your last run. All the stacks have been set to the default value (0)."},
+	{"key":"Er_StackConfigLoad","value":"Error on loading the maximum stack size value. The maximum size has been set to the default value (3)."}
+]}

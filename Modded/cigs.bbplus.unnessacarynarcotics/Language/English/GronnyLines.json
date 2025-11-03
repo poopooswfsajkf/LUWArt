@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "key": "Gron_Intro",
+      "value": "Hi, I'm Gronny, welcome to my store."
+    },
+    {
+      "key": "Gron_Intro2",
+      "value": "Click on me and I'll give you three random items."
+    },
+    {
+      "key": "Gron_Intro3",
+      "value": "If you don't like those items, you can re-roll them."
+    },
+    {
+      "key": "Gron_IntroFinal",
+      "value": "But each roll will cost MORE every time."
+    },
+    {
+      "key": "Gron_Roll1",
+      "value": "Good choice!"
+    },
+    {
+      "key": "Gron_Roll2",
+      "value": "Wow, those are some good items you just rolled!"
+    },
+    {
+      "key": "Gron_Roll3",
+      "value": "Wow, look at those items!"
+    },
+    {
+      "key": "Gron_Deny1",
+      "value": "You can't afford a roll right now..."
+    },
+    {
+      "key": "Gron_Deny2",
+      "value": "You don't have enough money for a roll!"
+    },
+    {
+      "key": "Gron_Deny3",
+      "value": "Maybe you should go learn some more..."
+    },
+    {
+      "key": "Gron_BoughtBye",
+      "value": "Thank you for buying!"
+    },
+    {
+      "key": "Gron_BoughtBye2",
+      "value": "Thank you, I will always be here."
+    },
+    {
+      "key": "Gron_BoughtBye3",
+      "value": "Thank you for buying my items."
+    },
+    {
+      "key": "Gron_SadBye",
+      "value": "Okay then..."
+    },
+    {
+      "key": "Gron_SadBye2",
+      "value": "Thank you for nothing..."
+    },
+    {
+      "key": "Gron_SadBye3",
+      "value": "WOW... okay..."
+    },
+    {
+      "key": "Gron_NoItem",
+      "value": "There aren't any items left for you to roll."
+    }
+  ]
+}

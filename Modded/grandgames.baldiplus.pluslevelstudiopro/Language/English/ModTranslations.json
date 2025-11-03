@@ -1,0 +1,113 @@
+{"items":[
+
+{"key":"Ed_Tool_room_placeholder_Title","value":"Placeholder Room"},
+{"key":"Ed_Tool_room_placeholder_Desc","value":"A room that is a placeholder. What else do you need to know about it?"},
+
+{"key":"Ed_Tool_object_bus_Title","value":"Bus"},
+{"key":"Ed_Tool_object_bus_Desc","value":"Baldi now has his OWN bus! Without this, how would you even get to school?"},
+
+{"key":"Ed_Tool_object_baldibus_Title","value":"Occupied Bus"},
+{"key":"Ed_Tool_object_baldibus_Desc","value":"Like a regular bus, but Baldi is sitting in it. Hurry up and get in!"},
+
+{"key":"Ed_Tool_object_campfire_Title","value":"Campfire"},
+{"key":"Ed_Tool_object_campfire_Desc","value":"What would a campsite be without a ROASTY, TOASTY CAMPFIRE?!"},
+
+{"key":"Ed_Tool_object_johnnysign_Title","value":"Johnny Sign"},
+{"key":"Ed_Tool_object_johnnysign_Desc","value":"A sign with Johnny's face on it that slowly spins around. Typically placed in Johnny's Store!"},
+
+{"key":"Ed_Tool_object_placednanapeel_Title","value":"Placed 'Nana Peel"},
+{"key":"Ed_Tool_object_placednanapeel_Desc","value":"The 'Nana Peel, but placed! Place it anywhere you'd like to create traps or other strange scenarios."},
+
+{"key":"Ed_Tool_object_staticprize_Title","value":"1st Prize (Static)"},
+{"key":"Ed_Tool_object_staticprize_Desc","value":"It's 1st Prize! Aw man, he can't move..."},
+
+{"key":"Ed_Tool_bulkobject_plantonwall_Title","value":"Plant Against Wall"},
+{"key":"Ed_Tool_bulkobject_plantonwall_Desc","value":"Puts a Plant up against a wall of your choosing automatically!"},
+
+{"key":"Ed_Tool_object_balloonblue_Title","value":"Blue Balloon"},
+{"key":"Ed_Tool_object_balloonblue_Desc","value":"They float around the room they're placed in. Place it to celebrate something, or just use it to recreate a map. Pop! Oops..."},
+
+{"key":"Ed_Tool_object_ballooncyan_Title","value":"Cyan Balloon"},
+{"key":"Ed_Tool_object_ballooncyan_Desc","value":"They float around the room they're placed in. Place it to celebrate something, or just use it to recreate a map. Pop! Oops..."},
+
+{"key":"Ed_Tool_object_balloongreen_Title","value":"Green Balloon"},
+{"key":"Ed_Tool_object_balloongreen_Desc","value":"They float around the room they're placed in. Place it to celebrate something, or just use it to recreate a map. Pop! Oops..."},
+
+{"key":"Ed_Tool_object_balloonorange_Title","value":"Orange Balloon"},
+{"key":"Ed_Tool_object_balloonorange_Desc","value":"They float around the room they're placed in. Place it to celebrate something, or just use it to recreate a map. Pop! Oops..."},
+
+{"key":"Ed_Tool_object_balloonpink_Title","value":"Pink Balloon"},
+{"key":"Ed_Tool_object_balloonpink_Desc","value":"They float around the room they're placed in. Place it to celebrate something, or just use it to recreate a map. Pop! Oops..."},
+
+{"key":"Ed_Tool_object_balloonpurple_Title","value":"Purple Balloon"},
+{"key":"Ed_Tool_object_balloonpurple_Desc","value":"They float around the room they're placed in. Place it to celebrate something, or just use it to recreate a map. Pop! Oops..."},
+
+{"key":"Ed_Tool_object_balloonred_Title","value":"Red Balloon"},
+{"key":"Ed_Tool_object_balloonred_Desc","value":"They float around the room they're placed in. Place it to celebrate something, or just use it to recreate a map. Pop! Oops..."},
+
+{"key":"Ed_Tool_object_balloonyellow_Title","value":"Yellow Balloon"},
+{"key":"Ed_Tool_object_balloonyellow_Desc","value":"They float around the room they're placed in. Place it to celebrate something, or just use it to recreate a map. Pop! Oops..."},
+
+{"key":"Ed_Tool_object_balder_Title","value":"Balder"},
+{"key":"Ed_Tool_object_balder_Desc","value":"A boulder that rolls around the schoolhouse. If you or an NPC gets hit by it, they will be squished! Time to bring out Indiana Jones."},
+
+{"key":"Ed_Tool_object_dirtcircle_Title","value":"Dirt Circle"},
+{"key":"Ed_Tool_object_dirtcircle_Desc","value":"A circle made of dirt. I heard it even keeps the seabears out!"},
+
+{"key":"Ed_Tool_object_qmarkorange_Title","value":"Orange Question Mark"},
+{"key":"Ed_Tool_object_qmarkorange_Desc","value":"A question mark that should be placed in Mystery Rooms. Feel free to place it elsewhere! Perhaps indicating a secret or a confusing segment?"},
+
+{"key":"Ed_Tool_object_qmarkpurple_Title","value":"Purple Question Mark"},
+{"key":"Ed_Tool_object_qmarkpurple_Desc","value":"A question mark that should be placed in Mystery Rooms. Feel free to place it elsewhere! Perhaps indicating a secret or a confusing segment?"},
+
+{"key":"Ed_Tool_object_qmarkpink_Title","value":"Pink Question Mark"},
+{"key":"Ed_Tool_object_qmarkpink_Desc","value":"A question mark that should be placed in Mystery Rooms. Feel free to place it elsewhere! Perhaps indicating a secret or a confusing segment?"},
+
+{"key":"Ed_Tool_object_qmarkblue_Title","value":"Blue Question Mark"},
+{"key":"Ed_Tool_object_qmarkblue_Desc","value":"A question mark that should be placed in Mystery Rooms. Feel free to place it elsewhere! Perhaps indicating a secret or a confusing segment?"},
+
+{"key":"Ed_Tool_object_qmarkred_Title","value":"Red Question Mark"},
+{"key":"Ed_Tool_object_qmarkred_Desc","value":"A question mark that should be placed in Mystery Rooms. Feel free to place it elsewhere! Perhaps indicating a secret or a confusing segment?"},
+
+{"key":"Ed_Tool_object_qmarkcyan_Title","value":"Cyan Question Mark"},
+{"key":"Ed_Tool_object_qmarkcyan_Desc","value":"A question mark that should be placed in Mystery Rooms. Feel free to place it elsewhere! Perhaps indicating a secret or a confusing segment?"},
+
+{"key":"Ed_Tool_object_qmarkyellow_Title","value":"Yellow Question Mark"},
+{"key":"Ed_Tool_object_qmarkyellow_Desc","value":"A question mark that should be placed in Mystery Rooms. Feel free to place it elsewhere! Perhaps indicating a secret or a confusing segment?"},
+
+{"key":"Ed_Tool_object_qmarkgreen_Title","value":"Green Question Mark"},
+{"key":"Ed_Tool_object_qmarkgreen_Desc","value":"A question mark that should be placed in Mystery Rooms. Feel free to place it elsewhere! Perhaps indicating a secret or a confusing segment?"},
+
+{"key":"Ed_Tool_object_shortcabinet_Title","value":"Short Cabinet"},
+{"key":"Ed_Tool_object_shortcabinet_Desc","value":"A shorter version of the Cabinet. You're welcome!"},
+
+{"key":"Ed_Tool_bulkobject_bulkcabinet_Title","value":"Bulk Cabinets"},
+{"key":"Ed_Tool_bulkobject_bulkcabinet_Desc","value":"2 Tall Cabinets placed against a wall behind 1 Short Cabinet."},
+
+{"key":"Ed_Tool_bulkobject_cafeteriatablepluslunch_Title","value":"Cafeteria Table + Lunch"},
+{"key":"Ed_Tool_bulkobject_cafeteriatablepluslunch_Desc","value":"A Cafeteria Table with 3 Lunch trays on it, 1 randomly replaced by a Banana."},
+
+{"key":"Ed_Tool_bulkobject_cabinetonwall_Title","value":"Cabinet Against Wall"},
+{"key":"Ed_Tool_bulkobject_cabinetonwall_Desc","value":"Puts a Cabinet up against a wall of your choosing automatically!"},
+
+{"key":"Ed_Tool_bulkobject_shortcabinetonwall_Title","value":"Short Cabinet Against Wall"},
+{"key":"Ed_Tool_bulkobject_shortcabinetonwall_Desc","value":"Puts a Short Cabinet up against a wall of your choosing automatically!"},
+
+{"key":"Ed_Tool_bulkobject_cabinetonwallthree_Title","value":"3 Cabinets Against Wall"},
+{"key":"Ed_Tool_bulkobject_cabinetonwallthree_Desc","value":"Puts 3 Cabinets up against a wall of your choosing automatically!"},
+
+{"key":"Ed_Tool_bulkobject_shortcabinetonwallthree_Title","value":"3 Short Cabinets Against Wall"},
+{"key":"Ed_Tool_bulkobject_shortcabinetonwallthree_Desc","value":"Puts 3 Short Cabinets up against a wall of your choosing automatically!"},
+
+{"key":"Ed_Tool_bulkobject_chairdesk_notebooks_Title","value":"Chair + Desk + Notebooks"},
+{"key":"Ed_Tool_bulkobject_chairdesk_notebooks_Desc","value":"A Chair and Desk with Notebooks on top!"},
+
+{"key":"Ed_Tool_bulkobject_chairdesk_papers_Title","value":"Chair + Desk + Papers"},
+{"key":"Ed_Tool_bulkobject_chairdesk_papers_Desc","value":"A Chair and Desk with Papers on top!"},
+
+{"key":"Ed_Tool_bulkobject_chairdesk_pencilnotes_Title","value":"Chair + Desk + Pencil and Paper"},
+{"key":"Ed_Tool_bulkobject_chairdesk_pencilnotes_Desc","value":"A Chair and Desk with a Pencil and Paper on top!"},
+
+{"key":"EW_A_HACKY_METHOD_TO_MAKE_THE_JSON_ERROR_GO_AWAY","value":"because I don't feel like just removing the comma at the end of the other stuff every time a new tool is added."}
+
+]}

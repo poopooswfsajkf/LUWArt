@@ -1,0 +1,34 @@
+{
+	"Name":"MathMachine:*",
+	"Children": [
+		{
+			"Name":"TextMeshPro:Num1",
+			"Children": [],
+			"Replacements":{
+				"color":"1 1 1 1"
+			},
+		},
+		{
+			"Name":"TextMeshPro:Operator",
+			"Children": [],
+			"Replacements":{
+				"color":"1 1 1 1"
+			},
+		},
+		{
+			"Name":"TextMeshPro:Num2",
+			"Children": [],
+			"Replacements":{
+				"color":"1 1 1 1"
+			},
+		},
+		{
+			"Name":"TextMeshPro:Answer",
+			"Children": [],
+			"Replacements":{
+				"color":"1 1 1 1"
+			},
+		}
+	],
+	"Replacements": {}
+}

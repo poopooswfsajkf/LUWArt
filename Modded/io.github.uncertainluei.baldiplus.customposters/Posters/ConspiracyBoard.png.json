@@ -1,0 +1,5 @@
+{
+    "posterWeight": 1,
+	"spawnMode": "Room",
+	"targetRooms": ["Faculty"]
+}

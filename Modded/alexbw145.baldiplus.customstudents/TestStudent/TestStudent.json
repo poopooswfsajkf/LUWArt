@@ -1,0 +1,10 @@
+{
+	"StudentTest":{
+        "spritesToLookFor":"Student_Test",
+		"PixelsPerUnit":42,
+		"Pivot":[0.5, 0.8],
+        "WhereAudio":"mario-gibberish-3.wav",
+        "YayAudio":"mario-yipee.wav",
+        "usesSheet":true
+	}
+}

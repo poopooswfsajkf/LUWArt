@@ -1,0 +1,10 @@
+{
+	"BaldiStudent":{
+        "spritesToLookFor":"Baldi",
+		"PixelsPerUnit":42,
+		"Pivot":[0.5, 0.8],
+        "WhereAudio":"BAL_Ohh.wav",
+        "YayAudio":"BAL_Wow.wav",
+        "usesSheet":false
+	}
+}

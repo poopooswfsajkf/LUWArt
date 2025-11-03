@@ -1,0 +1,70 @@
+{
+	"defines":{
+	},
+	"elements":[
+		{
+			"type":"blocker",
+			"color":[255,255,255]
+		},
+		{
+			"name":"Clipboard",
+			"type":"image",
+			"graphic":"OptionsClipboard",
+			"anchoredPosition":[0,0],
+			"size":[480,360],
+			"pivot":"#center",
+			"anchorMin":"#center",
+			"anchorMax":"#center",
+		},
+		{
+			"name":"PageLeft",
+			"type":"imageButton",
+			"graphic":"MenuArrowLeft",
+			"hoverGraphic":"MenuArrowLeftHigh",
+			"anchoredPosition":[-80, 110],
+			"size":[32,32],
+			"pivot":"#center",
+			"anchorMin":"#center",
+			"anchorMax":"#center",
+			"onPressed":"prevPage"
+		},
+		{
+			"name":"PageRight",
+			"type":"imageButton",
+			"graphic":"MenuArrowRight",
+			"hoverGraphic":"MenuArrowRightHigh",
+			"anchoredPosition":[80, 110],
+			"size":[32,32],
+			"pivot":"#center",
+			"anchorMin":"#center",
+			"anchorMax":"#center",
+			"onPressed":"nextPage"
+		},
+		{
+			"name":"Title",
+			"type":"text",
+			"anchoredPosition":[0, 102],
+			"size":[200, 50],
+			"pivot":"#center",
+			"anchorMin":"#center",
+			"anchorMax":"#center",
+			"font":"ComicSans24",
+			"color":[0,0,0],
+			"text":"General\nSettings",
+			"alignment":"Top",
+			"localized":false
+		},
+		{
+			"name":"BackButton",
+			"type":"imageButton",
+			"graphic":"BackArrow_0",
+			"hoverGraphic":"BackArrow_1",
+			"anchoredPosition":[0,0],
+			"size":[32,32],
+			"pivot":"#topLeft",
+			"anchorMin":"#topLeft",
+			"anchorMax":"#topLeft",
+			"onPressed":"exit"
+		},
+	]
+}

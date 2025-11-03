@@ -1,0 +1,10 @@
+{
+	"joseph":{
+        "spritesToLookFor":"joseph",
+		"PixelsPerUnit":42,
+		"Pivot":[0.5, 0.8],
+        "WhereAudio":"joseph_Where.wav",
+        "YayAudio":"joseph_Yay.wav",
+        "usesSheet":false
+	}
+}

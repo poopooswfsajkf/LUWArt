@@ -1,0 +1,45 @@
+{
+  "items":
+  [
+    {
+      "key": "Desc_Don",
+      "value": "The guy who does all the odd jobs around the school. Rumor is, he prefers to be paid in unmarked bills..."
+    },
+    {
+      "key": "Name_Don",
+      "value": "Don"
+    },
+    {
+      "key": "SoundPlacehold",
+      "value": "my name steve"
+    },
+    {
+      "key": "Don_Offered",
+      "value": "Oh, you got some cash for me, eh? You're alright, kid..."
+    },
+    {
+      "key": "Don_Offering",
+      "value": "Tell ya what... I'll take care o' any 'problem' you got, especially since you gave me this much green chedda..."
+    },
+    {
+      "key": "Don_OnIt",
+      "value": "Consider it done. No need to worry your pretty little head..."
+    },
+    {
+      "key": "Don_Finished1",
+      "value": "Job's done."
+    },
+    {
+      "key": "Don_Finished2",
+      "value": "That was almost too easy. Think I'll lay low for a bit..."
+    },
+    {
+      "key": "Don_Finished3",
+      "value": "They're sleepin' with the fishes now. Ain't no comin' back from that..."
+    },
+    {
+      "key": "Don_Finished4",
+      "value": "Piece o' cake. Maybe next time pick a real challenge..."
+    }
+  ]
+}

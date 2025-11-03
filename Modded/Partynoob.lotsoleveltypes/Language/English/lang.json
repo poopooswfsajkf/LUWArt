@@ -1,0 +1,12 @@
+{"items": [
+
+	{"key": "sfx_laserdeactivate", "value": "*laser deactivating*"},
+	{"key": "sfx_laseractivate", "value": "*laser activating*"},
+	{"key": "sfx_lasertouch", "value": "*electrical sound*"},
+	{"key": "sfx_balloonpop", "value": "*pop*"},
+	{"key": "sfx_ventLoop", "value": "*vent looping sound*"},
+	{"key": "sfx_ventShoot", "value": "*Pshhhhh*"},
+	{"key": "sfx_steamleak", "value": "*steam leaking*"}
+
+
+]}

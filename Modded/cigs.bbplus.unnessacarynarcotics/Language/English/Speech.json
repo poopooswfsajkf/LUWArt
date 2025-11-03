@@ -1,0 +1,169 @@
+{
+  "items": [
+    {
+      "key": "Men_Warning", "value": "<size=50><color=red>WARNING!\n</color></size><size=15>\n\n\n\ndrugs are bad. don't fucking do them.\n\nPress {0} to Walter White." },
+    {"key": "Itm_Beer", "value": "Beer"},
+    {
+      "key": "Desc_Beer",
+      "value": "Beer\nA 21+ beverage that can get you to do bad things, but feel pretty energized.\nIngredients: Water, barley, hops, yeast."
+    },
+    {"key": "Itm_Baby_Beer", "value": "Root Beer"},
+    {
+      "key": "Desc_Baby_Beer",
+      "value": "Root Beer\nA super fizzy drink that'll leave you spinning but keep your stamina up.\nIngredients: Carbonated water, sugar, natural flavors, vanilla."
+    },
+    {"key": "Itm_Blunt", "value": "Blunt"},
+    {
+      "key": "Desc_Blunt",
+      "value": "Blunt\nThe essential MLG prop for that pro-gamer chill session.\nWrapped in fancy leaves for ultimate 360-no-scope vibes."
+    },
+    {"key": "Itm_Baby_Blunt", "value": "Mountain Dew"},
+    {
+      "key": "Desc_Baby_Blunt",
+      "value": "Mountain Dew\nThe iconic gamer fuel that boosts your 420% MLG stats while you pwn noobs.\nIngredients: Carbonated water, high fructose corn syrup, orange juice, caffeine."
+    },
+    {"key": "Itm_Ecstasy", "value": "Ecstasy"},
+    {
+      "key": "Desc_Ecstasy",
+      "value": "Ecstasy\nA tiny pill that can make you feel on top of the world!\nthough the view isn't always pretty."
+    },
+    {"key": "Itm_Baby_Ecstasy", "value": "Glitchy's Own Lollipop"},
+    {
+      "key": "Desc_Baby_Ecstasy",
+      "value": "Glitchy's Own Lollipop\nA zesty lime candy shaped like someones head.\nIngredients: 3 Green, 12% Lime Flavoring, 32% Corruption."
+    },
+    {"key": "Itm_Cocaine", "value": "Cocaine"},
+    {
+      "key": "Desc_Cocaine",
+      "value": "Cocaine\nA suspicious white powder that helps you think like crazy.\nWorth it? Absolutely."
+    },
+    {"key": "Itm_Baby_Cocaine", "value": "Banana Split"},
+    {
+      "key": "Desc_Baby_Cocaine",
+      "value": "Banana Split\nA decadent ice cream treat loaded with enough sugar to send your heart racing.\nIngredients: Ice cream, bananas, chocolate syrup, whipped cream, cherries."
+    },
+    {"key": "Itm_LSD", "value": "LSD"},
+    {
+      "key": "Desc_LSD",
+      "value": "LSD\nA party favorite that makes you feel invincible\nif being on a trippy rollercoaster is your thing."
+    },
+    {"key": "Itm_Baby_LSD", "value": "Crazy Cane"},
+    {
+      "key": "Desc_Baby_LSD",
+      "value": "Crazy Cane\nA sweet minty cane that grants invincibility at the cost of temporary insanity.\nIngredients: Peppermint, sugar, food coloring."
+    },
+    {"key": "Itm_Meth", "value": "Meth"},
+    {
+      "key": "Desc_Meth",
+      "value": "Meth\nA dangerously addictive crystal that makes you feel like a 'genius' in the worst way.\nIngredients: Pseudoephedrine, red phosphorus, regret."
+    },
+    {"key": "Itm_Baby_Meth", "value": "Chocolate Ice Cream"},
+    {
+      "key": "Desc_Baby_Meth",
+      "value": "Chocolate Ice Cream\nA creamy, chocolatey indulgence perfect for a sugar rush.\nIngredients: Milk, cocoa, sugar, cream."
+    },
+    {"key": "Itm_Heroin", "value": "Heroin"},
+    {
+      "key": "Desc_Heroin",
+      "value": "Heroin\nNot recommended for personal use\nbest shared with people who won't leave you alone."
+    },
+    {"key": "Itm_Baby_Heroin", "value": "Chamomile Tea"},
+    {
+      "key": "Desc_Baby_Heroin",
+      "value": "Chamomile Tea\nA gentle brew to calm your friends in distress. One sip can ease the mind.\nIngredients: Chamomile flowers, water, honey."
+    },
+    {"key": "Itm_Cigarette", "value": "Cigarette"},
+    {
+      "key": "Desc_Cigarette",
+      "value": "Cigarette\nA smoky stick for sneaky cover, but watch out\nyour lungs WON'T thank you."
+    },
+    {"key": "Itm_Baby_Cigarette", "value": "Pixie Stick"},
+    {
+      "key": "Desc_Baby_Cigarette",
+      "value": "Pixie Stick\nA sweet candy powder in a straw that loves to get everywhere.\nIngredients: Powdered sugar, artificial flavoring."
+    },
+    {"key": "Itm_OFBSODA", "value": "Old Fashioned BSODA"},
+    {
+      "key": "Desc_OFBSODA",
+      "value": "Old Fashioned BSODA\nPop open a can of fizzy havoc to spray away anyone blocking your path.\nIngredients: Blue, high fructose corn syrup, electricity, 2% or less of water, blue 2, cocaine."
+    },
+    {"key": "Itm_Baby_OFBSODA", "value": "Old Fashioned BSODA"},
+    {
+      "key": "Desc_Baby_OFBSODA",
+      "value": "Old Fashioned BSODA\nA classic carbonated can to blast away your troubles.\nIngredients: Blue, high fructose corn syrup, electricity, 2% or less of water, blue 2, hyperactive sugar."
+    },
+    {"key": "Itm_Ketamine", "value": "Ketamine"},
+    {
+      "key": "Desc_Ketamine",
+      "value": "Ketamine\nTime-bending liquid for those who crave lightspeed frenzy, just don't overdose..."
+    },
+    {"key": "Itm_Baby_Ketamine", "value": "Broken Clock"},
+    {
+      "key": "Desc_Baby_Ketamine",
+      "value": "Broken Clock\nA busted clock that can't freeze time\nbut sure knows how to slow it down."
+    },
+    {"key": "Itm_Wine", "value": "Wine"},
+    {
+      "key": "Desc_Wine",
+      "value": "Wine\nA sophisticated adult drink that'll send you spinning at any proper soirée.\nIngredients: Grapes, yeast, water."
+    },
+    {"key": "Itm_Baby_Wine", "value": "Grape Juice"},
+    {
+      "key": "Desc_Baby_Wine",
+      "value": "Grape Juice\nA fancy, fizzy drink that everyone can enjoy, though it can leave you a little dizzy.\nIngredients: Grapes, sugar, and a tiny hint of citrus."
+    },
+    {"key": "Itm_Edible", "value": "Edible"},
+    {
+      "key": "Desc_Edible",
+      "value": "Edible\nA gummy snack that packs a mellow punch—use wisely.\nIngredients: Gelatin, sugar, THC extract, artificial flavors."
+    },
+    {"key": "Itm_Baby_Edible", "value": "Fruit Gummy"},
+    {
+      "key": "Desc_Baby_Edible",
+      "value": "Fruit Gummy\nA fun, fruity chew that's safe for all ages.\nIngredients: Gelatin, sugar, fruit juice, natural flavors."
+    },
+    {"key": "Itm_Mushrooms", "value": "Magic Mushrooms"},
+    {
+      "key": "Desc_Mushrooms",
+      "value": "Magic Mushrooms\nBrownish-gray mushrooms that can cause insane hallucinations\nsimilar to what Brian Griffin from Family Guy did."
+    },
+    {"key": "Itm_Baby_Mushrooms", "value": "Null Piece"},
+    {
+      "key": "Desc_Baby_Mushrooms",
+      "value": "\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnull\nnullHELPMEHELP MMEME ELP HELP youre a faggot"
+    },
+    {"key": "Itm_Money", "value": "Mafia Money"},
+    {
+      "key": "Desc_Money",
+      "value": "This shouldn't be here, BUT incase it is\ngive it to don, thats what it does. (usually seen on floor 3)"
+    },
+    {"key": "Itm_Bootleg_Bsoda", "value": "SBODA"},
+    {
+      "key": "Desc_Bootleg_Bsoda",
+      "value": "SBODA\nOpen the box and stop what you're doing! Product Name: High Fructose Corn Syrup, 2% or Less Calories: Water, 2 oz."
+    },
+    {"key": "Itm_Bootleg_Teleporter", "value": "Fast delivery"},
+    {
+      "key"  : "Desc_Bootleg_Teleporter"                                      ,
+      "value": "Fast Delivery\nPlease use it and I don't know where it ends."
+    },
+    {"key": "Itm_Bootleg_NoSquee", "value": "VD-NoSkuee"},
+    {"key": "Itm_MeowMeow", "value": "Meow Meow"},
+    {"key": "Desc_MeowMeow", "value": "Do Not."},
+    {"key": "Itm_Baby_MeowMeow", "value": "Meow Meow"},
+    {
+      "key": "Desc_Bootleg_NoSquee",
+      "value": "VD-NoSkuee\nAre you alone? VD-NoSkuee will solve all your cleaning problems!"
+    },
+    {"key": "Itm_Bootleg_Apple", "value": "Baldy's Apple Baldy"},
+    {
+      "key"  : "Desc_Bootleg_Apple"                                 ,
+      "value": "Baldy's Apple Baldy\nSweet Crunch, Big, fast cars."
+    },
+    {"key": "Itm_Bootleg_Zesty", "value": "Zesti Energy Flavor Bar"},
+    {
+      "key": "Desc_Bootleg_Zesty",
+      "value": "Zesti Energy Flavor Bar\nThe power bar is delicious. Take this pill, you will be full of energy!\nComfort, extra performance!"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "weights":
+    {
+        2: 50
+    },
+    "minItemValue": 30,
+    "maxItemValue": 75,
+    "categoryName": "Faculty",
+    "autoAssignRoomFunctionContainer": true,
+    "keepTextures": false,
+    "endlessMode": true
+}

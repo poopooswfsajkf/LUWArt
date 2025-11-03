@@ -1,0 +1,10 @@
+{
+	"PartyStudent1":{
+        "spritesToLookFor":"Student0",
+		"PixelsPerUnit":42,
+		"Pivot":[0.5, 0.8],
+        "WhereAudio":"Student_Where.wav",
+        "YayAudio":"Student_Yay.wav",
+        "usesSheet":true
+	}
+}

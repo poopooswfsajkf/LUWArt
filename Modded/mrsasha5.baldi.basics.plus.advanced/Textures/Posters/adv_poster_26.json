@@ -1,0 +1,26 @@
+{
+    "weight": 10,
+    "fonts": ["BoldComicSans24", "ComicSans12", "ComicSans12"],
+    "alignments": ["Center", "Center", "Right"],
+    "posterTextDatas": [
+        {
+            "textKey": "Adv_PST_26_1",
+            "fontSize": 24,
+            "position": {"x": 0, "z": 90},
+            "size": {"x": 256, "z": 192},
+            "color": {"r":1.0,"g":1.0,"b":1.0,"a":1.0}
+        },
+        {
+            "textKey": "Adv_PST_26_2",
+            "fontSize": 12,
+            "position": {"x": 88, "z": 32},
+            "color": {"r":1.0,"g":1.0,"b":1.0,"a":1.0}
+        },
+        {
+            "textKey": "Adv_PST_26_3",
+            "fontSize": 12,
+            "position": {"x": 46, "z": -8},
+            "color": {"r":1.0,"g":1.0,"b":1.0,"a":1.0}
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+
+{"items":[
+	{"key":"LPC_Name","value":"Lockpick"},
+	{"key":"LPC_Desc","value":"Lockpick\nA very useful tool to unlock doors and lockers!\nSpecially the green ones... but it is still against the rules!"},
+	{"key":"Vfx_Locker_HAHA","value":"HA HA"},
+	{"key":"Vfx_Locker_trololo","value":"TrololololoLOlololololo-trayayayayaaah"},
+	{"key":"Vfx_Locker_vacuum","value":"*SUCKING*"},
+	{"key":"Vfx_Locker_deepHAHA","value":"HAHaHaHaHaHaHaHaHaHaHahahahahaha"},
+	{"key":"Vfx_Locker_deepSLAM","value":"*DEEP SLAM*"},
+	{"key":"Vfx_Locker_heheha","value":"HE-HE-HE-HA"},
+	{"key":"Vfx_Locker_elephant","value":"Elephant Hit *click*"},
+	{"key":"Vfx_Locker_NyanCat","value":"*MEOW MEOW ME-ME-MEEOW MEOW!*"},
+	{"key":"Vfx_BAL_SingleHi","value":"Oh, Hi!"}
+]}

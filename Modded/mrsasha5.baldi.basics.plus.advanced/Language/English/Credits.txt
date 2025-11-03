@@ -1,0 +1,198 @@
+Offset: -3250.0
+Max Height: 3300.0
+
+Baldi's Basics Plus: Advanced Edition
+Welcome to the credits!
+Here you can see the people
+who helped develop the mod!
+If something is not mentioned, it's supposed to mean that it was made by me (Mr. Sasha)!
+
+
+Mr. Sasha
+*Programming, Initial Main Author, Artist, Sound Maker and other things which are not mentioned here...
+
+
+Excavator Man (Very big contributor!)
+*Artist (2D & 3D), Music Maker, Room Premades Maker, Recipes Maker, Ideas Inventor
+Made design for objects:
+- Advanced Math Machine
+- Gum Dispenser
+- Hangers (Ziplines)
+- Kitchen Stove
+- Acceleration Plate
+- Bully Plate
+- Invisibility Plate (old texture which was a base for the new one)
+- Noisy Plate
+- Present Plate
+- Pressure Green Plate 
+- Protection Plate
+- Slowdown Plate
+- Stealing Plate (AKA Placeface Plate, Editor only feature)
+- Sugar Addiction Plate
+- Teleportation Plate
+- Fake Plate texture for Editor only
+- Fake Plate Boxing Glove trick
+- Anvil Projectile
+- Pulley wall texture
+- Rusty RotoHall
+- Safety Trapdoor
+- Spelloons
+- Symbol Machine
+- Voting Ballot
+Made themed MIDI tracks:
+- Grades are Important (Factory)
+- Advanced Subjects (Laboratory)
+- Janitors Only (Maintenance)
+- History Repeats (Castle)
+Made design for rooms:
+- Advanced Class
+- English Class
+- School Council
+- Corn Field
+Made design for posters:
+- 1-31 (except for 26) generic posters
+- 17 generic poster original design
+- Symbol Machine poster
+- Extra Points Symbol Machine minigame description poster
+- Recipe poster
+- Content packs advertisement poster
+Made design for buttons:
+- Play
+- Pause
+- Rewinding
+- Exit (Blue door)
+Made design for overlays:
+- Protection effect
+Made design for item icons:
+- Wind Blower
+- Boxing Glove
+- Bread (And Piece of Bread)
+- Hammer
+- Teleportation Bomb
+- Inflatable Balloon
+- Raw Chicken Leg
+- Cooked Chicken Leg
+- Magic Clock
+- Dough
+- Placeable Fan
+Made design for gauges:
+- Protection gauge
+- Sugar Addiction Plate Effect gauge
+Made some room premades
+Made recipes:
+- Diet BSODA + Diet BSODA = BSODA
+- BSODA = Diet BSODA + Diet BSODA
+- Bus Pass = Mysterious Bus Pass
+- Mysterious Bus Pass = Bus Pass
+- Diet BSODA + Boots = Ice Boots
+- Quarter = Principal Keys
+- Principal Keys = Quarter
+- Wind Blower + Hammer = Placeable Fan + Hammer
+- Zesty Bar + Hammer = Dough + Hammer
+- Circle Key = Principal Keys
+- Hexagon Key = Principal Keys
+- Pentagon Key = Principal Keys
+- Square Key = Principal Keys
+- Triangle Key = Principal Keys
+- Weird Key = Principal Keys
+Improved Bendabest19's Tip Screen model (wires, "TIP" text)
+Made Static animation for Tip Screen in 2D Elevator
+Corrected renderer of the Placeable Fun (Original author couldn't fix issue)
+Ideas:
+- Pressure Green Plate (Inspired me to invent other plate variants)
+- Gum Dispenser
+
+Michael the Stickman
+*Artist (3D)
+Made models and rendered them for:
+- Placeable Fun (Entity)
+- Ice Boots (Item icon)
+
+Blin222
+*2D Artist, NPC Creator, Beta Tester
+Made Criss the Crystal (All assets by him)
+Made poster "BSODA Advertisement"
+Made recipe Alarm Clock + Alarm Clock = Magic Clock
+Found a few bugs
+
+Pixelguy
+*Baldi Voice Maker, developed CBLD2RoomAsset converter
+Made Baldi's announcing events voicelines:
+- Cold Machine
+- Disappearing Characters
+- Mysterious Portals
+- Voting
+
+B-Side Skid
+*Room Premades Maker, Music Maker
+Made MIDIs:
+- Prison Problem (Prison)
+- Corn Time
+Reformulated some things in the mod a long time ago (Somewhere around 0.4.x-0.5.x game versions)
+Made a couple of room premades
+
+GrandGames
+*Artist (2D), Idea Inventor, Beta Tester
+Textures:
+- Pulley Handle
+Ideas:
+- Pulley (Came from BBNG and was adjusted by me)
+
+Bendabest2010
+*Artist (2D, 3D)
+Made Tip Screen model
+Took the Mysterious Teleporter icon and improved it significantly (before it was recolor of the Dangerous Teleporter)
+
+Kostya Karuselkin
+*Artist (2D)
+Adjusted Invisibility Plate texture, poster and editor icon 
+to replace Invisibility Potion to Invisibility Elixir
+
+Whiytelly
+*Artist (2D), Beta Tester (Good)
+Made Mysterious Buss Pass item icon
+Found a few bugs
+
+Antoniofigo
+*Beta Tester (Very very good)
+Found a lot of bugs
+
+RostMoment
+*Beta Tester (Quite good)
+Found a few bugs
+
+TABS Dash
+*Beta Tester (Quite good)
+Found a few bugs
+
+Playg4meyt
+*Beta Tester
+Found a few bugs
+
+IdkWhatToPutHereHelp
+*Beta Tester
+Found a few bugs
+
+DarkSky
+*Beta Tester
+Found a few bugs
+
+MSF
+*Beta Tester
+Found a bug
+
+Cottykot
+*Beta Tester
+Found a bug
+
+Alex Director
+*Beta Tester
+Well, he opened game as I know!
+
+SaltGrain0
+*Sound Maker
+Made improved Baldi's "WOW" sound
+
+Special thanks to:
+MissingTextureMan101
+He developed Baldi's Basics Plus DEVELOPMENT API & Level Loading System which are very important for this mod

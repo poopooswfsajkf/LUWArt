@@ -1,0 +1,16 @@
+{
+    "weight": 10,
+    "minItemValue": 0,
+    "maxItemValue": 30,
+    "categoryName": "EnglishClass",
+    "doorMatsName": "EnglishDoorSet",
+    "isOffLimits": true,
+    "autoAssignRoomFunctionContainer": false,
+    "keepTextures": false,
+    "bannedFloors": [],
+    "endlessMode": true,
+    "isAHallway": false,
+    "isPotentialPrePlotSpecialHall": false,
+    "isPotentialPostPlotSpecialHall": false,
+    "squaredShape": false
+}

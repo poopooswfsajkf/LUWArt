@@ -1,0 +1,16 @@
+{"items":[
+
+{"key":"Itm_FireAxe","value":"Fire Axe"},
+{"key":"Itm_Zasty_Bar","value":"Energy Flavored Zasty Bar"},
+{"key":"Itm_Orange_Zesty","value":"Orange Flavored Zesty Bar"},
+{"key":"Itm_Star_Candy","value":"Star Candy"},
+{"key":"Itm_Sausage_Roll","value":"Sausage Roll"},
+
+{"key":"agrade_sp_title","value":"Search Party"},
+{"key":"agrade_sp_desc","value":"Your job is to find the right box! But be careful! The more boxes you break, the less points you earn and the less baldi will stop to praise you!"},
+{"key":"agrade_ck_title","value":"Cooking"},
+{"key":"agrade_ck_desc","value":"Click on the pot to hear which ingredient you need, then go find that foodloon and pop it into the pot!"},
+{"key":"agrade_jj_title","value":"Jigsaw Jumble"},
+{"key":"agrade_jj_desc","value":"Oh noes! The machine is missing a piece! Identify it and click on the missing piece to complete this activity!"}
+
+]}

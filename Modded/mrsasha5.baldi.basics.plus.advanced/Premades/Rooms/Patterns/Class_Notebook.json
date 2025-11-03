@@ -1,0 +1,13 @@
+{
+    "weights":
+    {
+        2: 50
+    },
+    "minItemValue": 0,
+    "maxItemValue": 30,
+    "categoryName": "Class",
+    "autoAssignRoomFunctionContainer": true,
+    "bannedFloors": [2, 3],
+    "levelTypes": ["Schoolhouse"],
+    "endlessMode": true
+}

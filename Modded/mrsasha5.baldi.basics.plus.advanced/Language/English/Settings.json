@@ -1,0 +1,29 @@
+{"items":[
+
+{"key":"Adv_Reset","value":"Reset"},
+{"key":"Adv_Options_Menu_Extra_Settings","value":"Extra\nSettings"},
+{"key":"Adv_Options_Menu_Emergency_Options","value":"Emergency\nButton"},
+{"key":"Adv_Options_Menu_Key_Bindings_Settings","value":"Key\nBindings"},
+{"key":"Adv_KeyBind_UpdateMod","value":"Confirm Auto Update"},
+{"key":"Adv_KeyBind_UpdateMod_Desc","value":"Press this button, when mod says you about\nnew version which is compatible with current game version."},
+{"key":"Adv_KeyBind_WindBlowerSwitch","value":"Wind Blower Switch"},
+{"key":"Adv_KeyBind_WindBlowerSwitch_Desc","value":"Allows you to turn off/turn on the Wind Blower\nwithout wasting any remaining wind!"},
+{"key":"Adv_KeyBind_BalloonPopAction","value":"Pop the Inflatable Balloon"},
+{"key":"Adv_KeyBind_BalloonPopAction_Desc","value":"It allows you to pop the balloon\non which you are flying!"},
+{"key":"Adv_KeyBind_ExitFromTrapdoor","value":"Exit from the Safety Trapdoor"},
+{"key":"Adv_KeyBind_ExitFromTrapdoor_Desc","value":"Allows you to escape from the Safety Trapdoor\nbefore the air runs out!"},
+{"key":"Adv_Option_Tips","value":"Elevator Tips"},
+{"key":"Adv_Option_Tips_Desc","value":"Tips will appear in the elevator! Tips contains\ninteresting game facts and recommendations!"},
+{"key":"Adv_Option_Tips_During_Game","value":"Tips"},
+{"key":"Adv_Option_Tips_During_Game_Desc","value":"These tips appear during the game!\nThey can describe you how to use somethings..."},
+{"key":"Adv_Option_FirstPrizeFeature","value":"First Prize Pushes NPCs"},
+{"key":"Adv_Option_FirstPrizeFeature_Desc","value":"Allows First Prize to push NPCs!"},
+{"key":"Adv_Option_Particles","value":"Particles"},
+{"key":"Adv_Option_Particles_Desc","value":"Particles improve visuals!\nSome particles in the game are mandatory!*"},
+{"key":"Adv_Option_Credits_Desc","value":"Credits!"},
+{"key":"Adv_EmergencyButton_SpriteTitle","value":"EMERGENCY"},
+{"key":"Adv_EmergencyButton_Desc","value":"Emergency button for emergency situations!\nUse this if you are softlocked, it will restart the level, but you will lose one live! If you are on Pitstop, then it will skip Pitstop,"},
+{"key":"Adv_EmergencyButton_Desc_In_MainMenu","value":"Emergency button for emergency situations!\nIt will appear here, when you are playing a level!"},
+{"key":"Adv_EmergencyButton_Desc_Reloading","value":"Go back to the level!"}
+
+]}
