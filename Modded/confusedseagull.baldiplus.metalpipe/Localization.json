@@ -1,0 +1,24 @@
+{"items":[
+
+{"key":"Itm_MetalPipe","value":"Metal Block"},
+{"key":"Desc_MetalPipe","value":"Metal Pipe\nDrop this heavy pipe on the floor and it'll fall with a mighty CRASH!\nIt's powerful enough to knock others away!"},
+{"key":"Itm_HotMetalPipe","value":"Hot Metal Block"},
+{"key":"Desc_HotMetalPipe","value":"Hot Metal Pipe\nSomeone made this metal pipe extra toasty.\nNot only will it knock others away when it lands,\nit's so hot nobody can pass it while it's there!"},
+{"key":"Itm_BrokenMetalPipe","value":"Broken Metal Block"},
+{"key":"Desc_BrokenMetalPipe","value":"Broken Metal Pipe\nThis pipe was tossed around a few too many times.\nYou can still throw it in the air, and it'll still come crashing down,\nbut it won't have nearly as much force as a normal pipe."},
+{"key":"Itm_BouncyMetalPipe","value":"Bouncy Metal Puffy Block"},
+{"key":"Desc_BouncyMetalPipe","value":"Bouncy Metal Pipe\nA strange metal pipe coated in bouncy resin that makes it bounce over and over again,\npushing people away each time!"},
+
+{"key":"Sfx_PipeCrash","value":"*METAL CRASH!*"},
+{"key":"Sfx_Boing","value":"*Boing!*"},
+
+{"key":"PST_PRI_MrPipe1","value":"Mr. Block"},
+{"key":"PST_PRI_MrPipe2","value":"This sentient metal pipe likes to bounce around and launch others away with great force!"},
+
+{"key":"Ed_Tool_item_metalpipe_Desc","value":"When dropped, launches nearby npcs away after a few seconds."},
+{"key":"Ed_Tool_item_hotmetalpipe_Desc","value":"When dropped, launches nearby npcs away after a few seconds, and lays on the floor to block the path."},
+{"key":"Ed_Tool_item_brokenmetalpipe_Desc","value":"When dropped, launches nearby npcs away after a few seconds. Has less range and force than a normal pipe."},
+{"key":"Ed_Tool_item_bouncymetalpipe_Desc","value":"When dropped, launches nearby npcs away every few seconds, up to 6 times."},
+{"key":"Ed_Poster_Title_pri_mrpipe","value":"Mr Pipe's Office Poster"},
+{"key":"Ed_Poster_Desc_pri_mrpipe","value":"Mr Pipe's poster in the office."}
+]}

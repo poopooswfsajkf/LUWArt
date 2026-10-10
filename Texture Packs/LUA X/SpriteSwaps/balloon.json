@@ -1,0 +1,22 @@
+{
+	"MatchBalloon_Sheet_0": {
+		"Sprite": "horn.png",
+		"PixelsPerUnit": 32,
+		"Pivot": [0.5, 0.5]
+	},
+	"MatchBalloon_Sheet_1": {
+		"Sprite": "firey_Temporary.png",
+		"PixelsPerUnit": 32,
+		"Pivot": [0.5, 0.5]
+	},
+	"MatchBalloon_Sheet_2": {
+		"Sprite": "abbie.png",
+		"PixelsPerUnit": 32,
+		"Pivot": [0.5, 0.5]
+	},
+	"MatchBalloon_Sheet_3": {
+		"Sprite": "pen.png",
+		"PixelsPerUnit": 32,
+		"Pivot": [0.5, 0.5]
+	},
+}

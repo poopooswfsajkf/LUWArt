@@ -1,0 +1,35 @@
+{"items":[
+
+{"key":"Sfx_Magic","value":"*MAGIC*"},
+{"key":"Sfx_Eat","value":"*CRONCH*"},
+
+{"key":"Vfx_BAN_Scream","value":"*SCREAMING*"},
+
+{"key":"Vfx_OFF_Hey1","value":"You there, wanna see something amazing?"},
+{"key":"Vfx_OFF_Hey2","value":"I have the greatest offer, just for you!"},
+{"key":"Vfx_OFF_Random1","value":"Anyone wanna see my greatest offer?"},
+{"key":"Vfx_OFF_Random2","value":"Does anyone wanna duplicate their items?"},
+{"key":"Vfx_OFF_RandomRare1","value":"Anyone wanna watch me fly?"},
+{"key":"Vfx_OFF_RandomRare2","value":"It's pretty cold in here."},
+{"key":"Vfx_OFF_Dupe","value":"I shall now duplicate one of your items!"},
+{"key":"Vfx_OFF_Done","value":"Oh no, where did the items go? Maybe you'll find them later."},
+{"key":"Vfx_OFF_Nothing","value":"Wait, you have nothing! Well that's unfortunate."},
+{"key":"Vfx_OFF_Fail","value":"Wait, my magic has stopped working. Oh well."},
+
+{"key":"PST_PRI_TheBanquet1","value":"GOOD FOOD"},
+{"key":"PST_PRI_TheBanquet2","value":"WE BROUGHT TS FROM WALFART PLS NO EAT HIM ALL BECAUSE HE HAS KIDS AND A WIFE AND IF YOU DO THAT HE GO BALDIMORE GAME MODE!"},
+
+{"key":"PST_PRI_OfferTurkey1","value":"TURKEY FLAG"},
+{"key":"PST_PRI_OfferTurkey2","value":"he give people good offers brah i tried him once he gave me 9999999999 documents! he so good good good good good good"},
+
+{"key":"PST_PRI_RandomTurkey1","value":"TURKEY"},
+{"key":"PST_PRI_RandomTurkey2","value":"HAPPY THANKGIVING FROM ROBLOC BLUUUUUUDD"},
+
+{"key":"PST_PRI_QR1","value":" BBQ CHICKEN FART BBQ CHICKEN FART BBQ CHICKEN FART BBQ CHICKEN FART BBQ CHICKEN FART BBQ CHICKEN FART"},
+{"key":"PST_PRI_QR2","value":"BBQ CHICKEN FART BBQ CHICKEN FART BBQ CHICKEN FART BBQ CHICKEN FART BBQ CHICKEN FART BBQ CHICKEN FART"},
+
+{"key":"Ed_Poster_Title_pri_banquet","value":"The Banquet's Office Poster"},
+{"key":"Ed_Poster_Desc_pri_banquet","value":"The Banquet's poster in the office."},
+{"key":"Ed_Poster_Title_pri_offerturkey","value":"OfferTurkey's Office Poster"},
+{"key":"Ed_Poster_Desc_pri_offerturkey","value":"OfferTurkey's poster in the office."}
+]}

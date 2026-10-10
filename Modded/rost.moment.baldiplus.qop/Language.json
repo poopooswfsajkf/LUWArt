@@ -1,0 +1,22 @@
+{
+  "items": [
+
+    {
+      "key": "Restart",
+      "value": "Restart"
+    },
+    {
+      "key": "RestartConfirm",
+      "value": "Do you really want to restart level? It will lose one life!"
+    },
+    {
+      "key": "SeedCopied",
+      "value": "Seed copied!"
+    },
+    {
+      "key": "PausedWithoutScreen",
+      "value": "PAUSED WITH NO SCREEN\n PRESS THE SAME KEY TO UNPAUSE!"
+    }
+
+  ]
+}

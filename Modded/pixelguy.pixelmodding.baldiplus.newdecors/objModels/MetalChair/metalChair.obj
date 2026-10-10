@@ -1,7 +1,7 @@
 # Created with Anim8or 1.01 Build 1.01.1403
 # Object "Chair_Test_Mesh":
 
-mtllib metalChair.mtl
+mtllib MetalChair.mtl
 
 # Begin Group:
 # Shape "cylinder01":

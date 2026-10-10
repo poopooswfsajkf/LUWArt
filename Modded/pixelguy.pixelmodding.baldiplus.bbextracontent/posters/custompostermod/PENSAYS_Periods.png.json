@@ -1,0 +1,11 @@
+{
+	"preset": "BulletinBoard",
+    "posterWeight": 95,
+	"spawnMode": "Room",
+	"targetRooms": ["Class"],
+	"textData":[
+		{
+			"textKey": "purp is mean i dont like him"
+		}
+	]
+}

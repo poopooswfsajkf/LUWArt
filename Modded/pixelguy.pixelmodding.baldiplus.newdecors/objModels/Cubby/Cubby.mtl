@@ -1,0 +1,17 @@
+# Created with Anim8or 1.00b
+# Object "object01":
+
+newmtl material02
+Ka 0.878 0.878 0.878
+Kd 0.878 0.878 0.878
+Ks 1 1 1
+Ns 752.6
+map_Kd PlasticTableDarker.png
+
+newmtl material01
+Ka 0.878 0.878 0.878
+Kd 0.878 0.878 0.878
+Ks 1 1 1
+Ns 752.6
+map_Kd PlasticTable.png
+
